@@ -1,0 +1,47 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    margin: 0px;
+    font-size: 23px;
+    width: 100%;
+    box-shadow: 5px 10px 13px whitesmoke;
+}
+
+.note
+{
+    font-size: 18px;
+    color: brown;
+}
+
+.heading:hover
+{
+color: teal;
+border: 5px solid aquamarine;
+background-color: lightpink;
+}
+
+
+
+
+#dj:hover{
+border-radius: 10px;
+border: 5px solid snow;
+box-shadow: 10px 10px 12px red;
+background-color: lightblue;
+color: darkcyan;
+}
+
+#dj{
+    font-size: 25px;
+}
+
+canvas
+{
+    margin-top: 100px;
+    border: 7px solid snow;
+    border-radius: 20px;
+}
